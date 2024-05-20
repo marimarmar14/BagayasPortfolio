@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.menu {
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+
+.menu a {
+  background-color: #f0f8ff;
+  padding: 8px;
+  margin-top: 7px;
+  display: block;
+  width: 100%;
+  color: black;
+}
+
+.main {
+  float: left;
+  width: 60%;
+  padding: 0 20px;
+}
+
+.right {
+  background-color: #f0f8ff;
+  float: left;
+  width: 20%;
+  padding: 15px;
+  margin-top: 7px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body style="font-family:Verdana;color:#aaaaaa;">
+
+<div style="background-color:#f0f8ff;padding:15px;text-align:center;">
+  <h1>Hi IM MARI!!</h1>
+</div>
+
+<div style="overflow:auto">
+  <div class="menu">
+    <a href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/264cbf83-b8eb-4852-9a3d-15085114df42/df3eqwn-976bf97d-2b56-40a4-859f-46087d37daac.jpg/v1/fill/w_894,h_894,q_70,strp/nightmare_proxy_s_2_stage_form_by_nightmareproxyoffici_df3eqwn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzI2NGNiZjgzLWI4ZWItNDg1Mi05YTNkLTE1MDg1MTE0ZGY0MlwvZGYzZXF3bi05NzZiZjk3ZC0yYjU2LTQwYTQtODU5Zi00NjA4N2QzN2RhYWMuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6QSf8tyagkNsq4ehSJ8DmQ2h3YyFnHREQTWay5nHaac">Link 1</a>
+    <a href="https://tse2.mm.bing.net/th?id=OIP.inZS2XoTrfYX8heKBkrC0gHaHa&pid=Api&P=0&h=180">Link 2</a>
+    <a href="https://tse2.mm.bing.net/th?id=OIP.fVeWIySt1hubqq9cG_KNNgHaHa&pid=Api&P=0&h=180">Link 3</a>
+    <a href="https://tse2.mm.bing.net/th?id=OIP.nj3qxrkWa89EjLNQ2wjHCQHaHa&pid=Api&P=0&h=180">Link 4</a>
+  </div>
+
+  <div class="main">
+    <h2>Mari Brunnhilde T. Bagayas</h2>
+    <p>I am a self-taught artist since 5th grade, I really love arts and crafts. My favourite hobby is to draw and paint but sometimes it can be sleeping all day. I have some example art i can show!</p>
+  </div>
+
+  <div class="right">
+    <h2>How i started</h2>
+    <p>I got so into this fandom that i wanted to make a art gift to it</p>
+  </div>
+</div>
+
+<div style="background-color:#f0f8ff;text-align:center;padding:10px;margin-top:7px;">If you like to buy my paintings or commision me go to services</div>
+
+</body>
+</html>
+
